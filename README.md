@@ -25,7 +25,7 @@ I care about the parts that are easy to get wrong: backpressure, concurrency, da
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-Open to full-stack and full-stack AI engineering roles, remote, hybrid, or with relocation.
+Focus: real-time and event-driven systems, cloud infrastructure, and applied AI. Open to full-stack and full-stack AI engineering roles, remote, hybrid, or with relocation.
 
 ## Featured work
 
@@ -58,18 +58,60 @@ A full delivery-management system that serves several dairy businesses from a si
 | [ibm-ecommerce-infra](https://github.com/atiqbitstream/ibm-ecommerce-infra) | Terraform infrastructure as code provisioning a load-balanced, autoscaling VPC web tier and a managed PostgreSQL database on IBM Cloud. | Terraform, IBM Cloud |
 | [boloprompt](https://github.com/atiqbitstream/boloprompt) | An offline macOS menu-bar app for long-form voice dictation that transcribes locally on Apple Silicon with Whisper. | Swift, WhisperKit |
 
-## What I work with
+## Tech stack
 
-| Area | Tools |
-|------|-------|
-| Languages | Python, TypeScript, JavaScript, SQL |
-| Backend | FastAPI, NestJS, Node.js, REST, WebSockets, Celery, Passport and JWT |
-| Frontend and mobile | React Native, Expo, Angular with SSR, React and Next.js, RxJS, Tailwind CSS, Bluetooth LE |
-| Data, signal, and ML | NumPy, SciPy, BrainFlow, pandas, sentence-transformers, scikit-learn, OpenAI API |
-| Streaming and messaging | Apache Kafka, Redis |
-| Databases | PostgreSQL, TimescaleDB, TypeORM, SQLAlchemy, Redis |
-| Cloud and DevOps | AWS (ECS, RDS, MSK, Lambda, S3, VPC), Terraform, Docker, IBM Cloud, GitHub Actions, Grafana, Loki, Prometheus, k6 |
-| Architecture | Event-driven microservices, real-time streaming, multi-tenant data isolation, RBAC, stateful JWT auth |
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Frontend and mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Data, signal, and ML**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Streaming, databases, and caching**
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black)
+
+**Cloud and DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=flat-square&logo=ibmcloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+
+Architecture: event-driven microservices, real-time streaming, multi-tenant data isolation, RBAC, and stateful JWT authentication.
 
 ## Education
 
